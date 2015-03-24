@@ -1,0 +1,50 @@
+tr{
+padding-top:5px;
+}
+.square2 {
+    border: solid 2px gray;
+    height: 150px;
+    width: 320px;
+	margin: 10px;
+	}
+.update1{
+    margin-top: -17px;
+    margin-left: 504px;
+}
+.update2 {
+    margin-top: -34px;
+    margin-left: 580px;
+}
+	.update3 {
+    margin-top: -34px;
+    margin-left: 635px;
+}
+.update4 {
+    margin-top: -34px;
+    margin-left: 697px;
+}
+.update5 {
+    margin-top: -34px;
+    margin-left: 755px;
+}
+.update6 {
+    margin-top: 23px;
+    margin-left: 592px;
+}
+ 
+.square3 {
+    border: solid 2px gray;
+    height: 190px;
+    width: 250px;
+}
+.button{
+float:center;
+}
+
+.button ul{
+list-style-type:none;
+}
+.cancelbutton{
+margin-top:-57px;
+margin-left:375px;
+}
