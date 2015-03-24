@@ -1,0 +1,1 @@
+Simple student clearance system using Code Igniter

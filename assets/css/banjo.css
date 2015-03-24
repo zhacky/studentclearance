@@ -1,0 +1,125 @@
+div.one{
+border-style:dotted;
+width:790px;
+margin:auto;
+}
+
+.container.ol {
+  box-shadow: 2px 2px 45px;
+  padding: 20px;
+  width: 559px;
+  background-color: rgb(238, 238, 238);
+}
+.btn-primary {
+  color: white;
+  background-color:#800000 ;
+  border-color:black;
+  width: 453px;
+  border-radius:23340px;
+}
+.btn-default{
+	color:white;
+	background-color:black;
+}
+div.weed{
+	margin:25px;
+}
+div.line1{
+	margin:25px;
+}
+div.ol1{
+	border:solid 1px black;
+	height: 630px;
+}
+div.ol{
+	margin-top:105px;
+}
+
+span.CST{
+color:maroon;
+}
+div.pix{
+border-style: double;
+border-width:3px;
+width:200px;
+margin:-44px;
+margin-left: 524px;
+margin-bottom: -247px;*/
+}
+div.all{
+margin:25px;
+margin-top:145px;
+margin-left:0
+}
+
+
+div.gold{
+margin: 25px;
+border: solid 3px gray;
+width: 1050px;
+height: 377px;
+background-color: white;
+border:double;
+ } 
+
+
+div.go{
+border-width:3px;
+margin: 25px;
+padding: 10px;
+width: 40%;
+background-color: white;
+border-style:double;
+}
+
+div.last{
+margin:9px;
+}
+div.last1{
+margin-right:-115px;
+margin-top:-50px;
+}
+div.y{
+width: 300px;
+height: 300px;
+}
+div.line{
+margin-left: 60 px;
+margin-top:-30px;
+}
+span.ama{
+color: maroon;
+}
+h1{
+margin:0 auto;
+text-align:center;
+display: block;
+}
+textarea{
+margin:25px;
+margin-top:-10px;
+}
+
+h4{
+margin: 25px;
+}
+div.space{
+height:50px;
+width:50px;
+}
+body{
+background-color: #faebd7;
+}
+
+
+
+
+
+div.item img {
+width:100%;
+height:600px;
+}
+
+div.all2{
+border-style: dotted;
+}
